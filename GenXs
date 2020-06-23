@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<!-- Theme made by www.gtntgroup.com  -->
+<html lang="en"><head><title>www.gtntgroup.com</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="Keywords" content="HTML,CSS,XML,JS, JAVASCRIPT, WALLPAPER,LOGO,GALLERY,STUDIOS, COLLECTION, SOCIAL, MEDIA"><meta name="Description" content="Studios, Gallery, Collection & Web Design"><meta name="author" content="gtntgroup.com"><link rel="canonical" href="https://github.com/GeN-w-DeJA/GSTORE/new/master">
+<!-- Latest compiled and minified CSS --><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<!-- jQuery library --><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Popper JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<!-- Latest compiled JavaScript --><script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+									<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+										<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-pink.css">
+											<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+												<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2019.css">
+													<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-metro.css">																											
+														<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-safety.css">
+															<link type="text/css" href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+																<link type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+																	<link type="text/css" href="https://fonts.googleapis.com/css?family=Railway" rel="stylesheet">
+																		<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+																   		<link href='https://fonts.googleapis.com/chttps://fonts.googleapis.com/css?family=Markaziss?family=Markazi Text' rel='stylesheet'>
+																			 <link href='https://fonts.googleapis.com/css?family=Abril Fatface' rel='stylesheet'>
+																			   <link href='https://fonts.googleapis.com/css?family=Nosifer' rel='stylesheet'>
+																			     <link href='https://fonts.googleapis.com/css?family=Meie Script' rel='stylesheet'>
+																			  	<link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+																				 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">																								
+                                                           <script src="https://kit.fontawesome.com/0e9acd0454.js" crossorigin="anonymous"></script>
+<!-- gs-custom search engine --><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=007483869223202516001:a2myf13cdmi"></script>
+                                                <link href='https://fonts.googleapis.com/css?family=Source Code Pro' rel='stylesheet'>
+<style type="text/css">
+                h1, body, h5
+                {
+                  font-family : "Raleway",sans-serif;text-shadow: 0px 1px 1px black;
+                }
+                d  html
+                {
+                  height : 100%;
+                }            
+                .bgimg {background-image: url('https://ugix0q.dm.files.1drv.com/y4mLH-WzHuEVNUHmCt_uWA6HqgiLKQ1rXrufQynpJiMwJXZbnvWH4JQhf34Vt2MaFdMGxvaOFeAZt4kWqpVFjULxYavcVvXK2pvuiTaClahwGY_zhxVmRB9t5VkHu81cmfUnpNtCb0WQLE1kTk7yElbNfaUXh3Z8MHQTGbZENlgGEsaa1RTfNYJMfTqzlEMEVUxYz6vh6ZUu0o2TxamzHgsKA/Dark%20Town.gif?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:cover; background-color:black}
+                .bg-width  {background-image: url('https://hftawq.dm.files.1drv.com/y4mFiYsn4zOIt0N7f2Wnq9BvZtYr-qMsMbR2hi5KcjeaLKq3DiSdfiXryotBb5yahv13HPavzE9Vvd6iZqeJY7lieB_M2LxKDB5TUSPrY2MFuSZAlnPFtj2NYjq8gIh7KKNn0wyhMfZmpGqYh8-hGAfuMhLXIt1dW2ZCvOHD0T25f7xps1eRuqSAwMrC1A_emhBebBCoNNUO5opCmSDgg7Fqg/Make%20A%20difference%20MAKE%20your%20style.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                .darkbg-green {background-image: url('https://ppiekq.dm.files.1drv.com/y4mJWWDNhOBjuBlZM2zqpVRvy-oe9xb5Z5DGaWg4E8e6m4jBqLglKqdOl_Gv9K15O0L5YZCNdd4ITV6rXd93QlIJG_BjDehFysOYSmciJ_1RcpHq8Hdm-l43-VnNt_3iNU1CE8cWK6R7UOFSUVOjimoSW1CW8xW7yQ2W7EcA94J2uiRb5elGycXLhHRw67gB1azFXzWt3iZBNYTs0fUSaF3rw/gs011%201.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;}
+                .darkbg-red {background-image: url('https://ppigkq.dm.files.1drv.com/y4mUT3Uz4u0MKDwy-jFbV5OkRKDde9siXu3C1iaDjXGm6zVvv2yjQaU046YHozPLrI-NIHVTLgj6eE_xoZCVn6_ES5gz-Iz7DrcqYLpRZ9LCiYoYMikvAVlg2BcMigO4rjXDb99-1wC3HspeUzNNRsDwuaKs-HzowSmwrLTuEF16lbGXBiRKCRMM3gnYZB4JaSy_4i0XZ7kltRCRtTq61XDrQ/gs_06-19-2020_store432.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;}
+                .darkbg-blue {background-image: url('https://ppifkq.dm.files.1drv.com/y4mryJwOKN1SqY_3-IQn53Tl5_ZE5j5lv56MNfo6gJnOi99KxNwYyiLs9C8ZiieDbFn0bljovFd6FWMUEnTkwoYIOmd0ZShEy-jbTk5BFZyI4BveKithFjtwCqZoiV17hIPalqgRsndZzql8vc25GnECjSZtP8fJLxMm-hZQaDLMYnYOsJAZ7WGWlF3nmGvbOkgHisivleyKanl0mMNLvOp5g/gs_06-19-2020_store435.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;}            
+                .bg-skyline  {background-image: url('https://wmi45q.dm.files.1drv.com/y4mJ0wE3MHujZ5-VaA1QTJsGUt-AYjzq56E_Ptq1O92LCMguXo3QHi_iBwcgoXt3I-mi98g7zUk5_mtxgLD9H8SpdGmTCgFkLb2nWiPmpqwzyPL5EIKS4i6a8721svHqYMxldDAosmjZ7AFWprmJFOAwp2A7TnaTRkdEXLK-d87hIpanUsnVyp_l1XShZGkAFFcJwhr50EooVWeAmP0kudFqA/Blue%20Sky%20Ocean%20Nature%20Creative%20Desktop%20Wallpaper%20%285%29.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                .bg-oceanblue  {background-image: url('https://w2i45q.dm.files.1drv.com/y4mOisUqKPaFQGzRHdOLhvFk8eSf1YeZaBJUsaMpiRfbiA5zoRE_AB0JMHtQXUnc2lNMHVrJE8vD0XQpL8asVDDHz7VG0k27GYsSUp0PsQlD23TC0KyqBdal45sOmYxxOITK4PQOFPtA2aBZmRXu6_xmOhfsXnPT0ikMwayrTgGLH8sPR9uakdfCk3FRbm7W6lXfG1p7DfbvHPE0omD8seAxQ/Blue%20Sky%20Ocean%20Nature%20Creative%20Desktop%20Wallpaper%20%286%29.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                .bg-coundspace  {background-image: url('https://vghtwg.dm.files.1drv.com/y4m3cb6pjfxc8ACuoyVlxLIGsDg3OpZmcLN3FW5nKQ_FitlU1DKqLRW3CXzX6krEwPpxmy8_9B4YPAdkeF8_V0FraxObSw6SHlRtjmKGT1ieEWM96DvZgTCvYMhhNN5z_BOOds9NBkfB-yt4F2ElJyCeFM5p8JbvyDJIMBaoPagvz70Izmv_E5ApsFUeGw7mLb4Hqg-1nHdEGF1gQRpiGA4Ew/gs_jumbobg_dark05120.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                .bg-tonw  {background-image: url('https://vwhtwg.dm.files.1drv.com/y4mHUbghuLa6HzrJiE7SPwez5b2-HSyvhHeTAIA2Inj5qSMKbkNLgK2aIFxg9lUF_kM2VRYIJGwQ2fkRDnep9Tliq29ql43_TZYqnyDXtnP8p6qSqcnSIyke8ynxz90RKdUkMyf-tPucFj-tbvuw_O8GgI2mjLLG6_MxugiTfH6jGZFxMY9uzh3tFv4ZCCcd7vZ3t4AiW7nAWQVzBAvgXYlBQ/gs_jumbobg_dark05121.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                .bg-deepsea  {background-image: url('https://tmhtwg.dm.files.1drv.com/y4mbTRHIgToSiesKsu9F_WWZ4I52w17MEjTTDINXCuW0s_nNbjyss8ulau2HiaVowCouZiKar0BsQt87zO61QuNESfYuc02uUPFW5Y6yRP3zdZkwBP-z218Rz-Rof2MP5Uk8_iEJxaiZcGn3c8r0zMtW8T3uIDzVk_8JofhXWDBbEFm9SDlin479RWBXJysUSgQf-47zB4xfESrTwTJ5pmpKQ/gs_jumbobg_dark05122.jpg?psid=1');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}
+                a {text-decoration: none;}
+                .meieScript { font-family: 'Meie Script';font-size: 18px;}
+                .Nosifer { font-family: 'Nosifer'; font-size: 22px; text-shadow: 1px 1px 2px black; color: red;}
+                .font-expanded  {font-family: "Markazi-Text",sans-serif,Helvetica Neue;
+font-stretch:ultra-expanded; }
+h2 {text-shadow: 0px 2px 2px black;}
+h3,p  {font-family: 'Montserrat';text-shadow: 0px 1px 1px #222;color: black; }
+.w3-bar,h5,h6, button {font-family: "Montserrat", sans-serif;}
+.fa-anchor,.fa-coffee {font-size:200px}
+.markazi-text { 
+	font-family: "Markazi-Text", sans-serif; color: #151515; text-shadow: 1px 1px 2px lightgrey;}
+h4 {
+    font-family:"Montserrat",sans-serif,Arial, Helvetica;}
+ div.gallery {
+  border: 1px solid #ccc;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  .mySlides{
+  display:none;
+  }
+  .fa{cursor:pointer;
+  }
+  .w3-tag {height:15px;width:15px;padding:0;margin-top:6px;cursor:pointer;
+  }
+  .w3-bar,h1,button  { font-family: "Lato", sans-serif; letter-spacing: 1px;
+  }
+  .fa-anchor,.fa-coffee  { font-size:64px;
+  }
+ #navlist{
+position:relative;
+}
+
+#navlist li{
+margin:0;
+padding:0;
+list-style:none;
+position:absolute;
+top:0;
+}
+
+#navlist li,#navlist a{
+height:44px;
+display:block;
+}
+
+#home{
+left:0px;
+width:46px;
+background:url('https://ppifkq.dm.files.1drv.com/y4mA3TaBsqXI-KTqzcS6KvswN7hR7UCkKla5qCZkH_uxvcghEnCagkQS6tbhCHbn9ZmdEV_uIH8JExGJE0irlSM6HFQQt0LEHdbDCfFdht_nmm1ZU0JRs79p9Kd9rnsDC7yXtKKPCCaMs3NbrJMREVQH9Q1AM1o3M0lCqDmLou9AD2XuEigD8-ZbxRLx4s_aQiOUMAmZdO9p9cr_iMI8MPqRg/gs_06-19-2020_store435.jpg?psid=1') 0 0;
+}
+
+#prev{
+left:63px;
+width:43px;
+background:url('https://ppiekq.dm.files.1drv.com/y4m6-tzt6fZ8MX0cXWMY1atUfKiqNy9mwIq8LwwWUQKet7entH1MzG6l8x3ge9bAHxv8ghJD_MBtqBnpbSXTgTOyzV7jJpAjGCAFyggEy3473eJQUrnOXojK_iR0Jdg5nBcBKdnUjuFN0bSNcG98ZuA5HnMAf460kNZNJtJoeae_TcjIF861HIpxRlLb3zf-fMcjyS6BKacV6ufCoZkgoY0jQ/gs011%201.jpg?psid=1') -47px 0;
+}
+
+#next{
+left:129px;
+width:43px;
+background:url('https://ppigkq.dm.files.1drv.com/y4mOkr3CVjVKv8u8SZ8dw5f8UKSP5l5N4TiiObc-0YWrlWs_kSQoH5ihG7AvFC7KFNCHiBkofATiIFlgS9T5O7kX4GikUsnHHbdEmzYlaYiQe4yBfaTZdUBQAYXh6ARmdK3sKAxs_kfd0dU5P5tKJsIWS-esXEfUGr0EJbAChATycfUKiBMfC1NecL6bKCw5_eAktWNLFnDFpHSHo9KhPjD5A/gs_06-19-2020_store432.jpg?psid=1') -91px 0;
+}#mydiv {position:relative;}
+#mydiv p img{position:absolute; text-align:center; top:6px; left:8px; padding: 0px 0px 0px; margin: 0px 0px;width: 100%; height:auto;overflow: hidden; box-shadow: 1px 1px 2px 4px gold; opacity:1.0;}
+/* Make the image fully responsive */
+.carousel-inner img {width: 100%;height: 100%;
+}
+.two {
+  border-style: solid;
+  border-width: medium;
+}
+
+.image-wrapper { width: 90%; border: 2px solid white;} 
+.full-image { width: 100%; } 
+.border-image-wrapper { width: 90%; height: 0; padding-bottom: 66.67%; border: 2px solid white; position: relative; }
+.gen-image { width: 100%; position: absolute; }
+</style>
+																							</head>
+																							<body>
+																								<!-- Navbar -->
+																								<div class="w3-bar w3-top w3-row w3-theme">
+																									<a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding w3-hover-grey w3-large w3-black" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu">
+																										<i class="fa fa-bars"></i>
+																									</a>
+																									<button onclick="myAccFunc('Demo2')" class="w3-bar-item w3-padding w3-button w3-hover-black w3-white w3-left-align w3-hide-medium w3-hide-large">
+																										<img src="https://pzikkq.dm.files.1drv.com/y4mC6sWLy272AWt4UHQukHoqp1xFhRLIcijP25yO-m-B52khx-wxTSxgiZGgz6MQ9sgEiaAOLoodoUJTdNxcvtoz267oj8x_4T401QPoRbCXGOIr4rkgDKP1t7lgo0cgV9o745wECPz0HwwWZyuF65tldjGsJytIa4Lzx0oUTw0K0vVjbAhsG7XxlUEPqw0WuUjgxI77Pb3WFEe5BaoNpsAHA/gs_06-19-2020_store424.png?psid=1" alt="Tag G" style="width:86px; height:26px"/>
+																									</button>
+																									<div class="w3-row">
+																										<button onclick="myAccFunc('Demo2')" class="w3-bar-item w3-padding w3-button w3-hover-black w3-white w3-left-align w3-hide-small">
+																											<img src="https://pzikkq.dm.files.1drv.com/y4mC6sWLy272AWt4UHQukHoqp1xFhRLIcijP25yO-m-B52khx-wxTSxgiZGgz6MQ9sgEiaAOLoodoUJTdNxcvtoz267oj8x_4T401QPoRbCXGOIr4rkgDKP1t7lgo0cgV9o745wECPz0HwwWZyuF65tldjGsJytIa4Lzx0oUTw0K0vVjbAhsG7XxlUEPqw0WuUjgxI77Pb3WFEe5BaoNpsAHA/gs_06-19-2020_store424.png?psid=1" alt="Tag G" style="width:80px; height:22px"/>
+																										</button>
+																										<div id="Demo2" class="w3-bar-block w3-hide w3-medium w3-pink" style="margin-top:0px">
+																											<a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-grey">Link 1</a>
+																											<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hover-grey">Link 2</a>
+																											<a href="#" class="w3-bar-item w3-button w3-padding-large w3-hover-grey">Link 3</a>
+																										</div>
+																										<a href="#gstore" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`STORE</a>
+																										<a href="#gstudio" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`STUDIO</a>
+																										<a href="#gbox" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`BOX</a>
+																										<a href="#gclub" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`CLUB</a>
+																										<a href="#gblog" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`BLOGS</a>
+																										<a href="#gmember" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`MEMBER</a>
+																										<a href="#gtntech" class="w3-bar-item w3-button w3-hide-small w3-padding w3-hover-white">G`TNTECH</a>
+																									</div>
+																									<!-- Navbar on small screens -->
+																									<div id="navDemo" class="w3-bar-block w3-hide w3-hide-large w3-hide-medium w3-medium w3-pink" style="margin-top:0">
+																										<a href="#gstore" class="w3-bar-item w3-button w3-padding-large">G`STORE</a>
+																										<a href="#gstudio" class="w3-bar-item w3-button w3-padding-large">G`STUDIO</a>
+																										<a href="#gbox" class="w3-bar-item w3-button w3-padding-large">G`BOX</a>
+																										<a href="#gclub" class="w3-bar-item w3-button w3-padding-large">G`CLUB</a>
+																										<a href="#gblog" class="w3-bar-item w3-button w3-padding-large">G`BLOGS</a>
+																										<a href="#gmember" class="w3-bar-item w3-button w3-padding-large">G`MEMBER</a>
+																										<a href="#gtntech" class="w3-bar-item w3-button w3-padding-large">G`TNTECH</a>
+																									</div>
+																								</div>
+																								<!-- header on small screens -->
+																								<header class="bgimg w3-light-grey  w3-center w3-hide-medium w3-hide-large" style="padding:164px 16px">
+																									<h1 class="w3-margin w3-xxxlarge w3-center w3-text-light-grey">WELCOME</h1>
+																									<p class="w3-medium w3-text-light-grey">
+																										<a href="https://www.gtntgroup.com">www.gtntgroup.com</a>
+																									</p>
+																									<button class="w3-button w3-black w3-padding-large w3-large w3-margin-top" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu">ABOUT US</button>
+																								</header>
+																								<!-- header -->
+																								<header class="bg-width w3-black w3-center w3-hide-small" style="padding:164px 16px">
+																									<h1 class="w3-margin w3-jumbo w3-center w3-text-light-grey">WELCOME</h1>
+																									<p class="w3-xlarge w3-text-light-grey">
+																										<a href="https://www.gtntgroup.com">www.gtntgroup.com</a>
+																									</p>
+																									<button class="w3-button w3-black w3-padding-large w3-large w3-margin-top" href="#about">ABOUT US</button>
+																								</header>
+																								<!-- First Grid -->
+																								<div class="w3-row w3-light-grey">
+																									<div class="w3-content">
+																										<div class="bg-width w3-center w3-light-grey w3-padding w3-animate-top">
+																											<a href="https://www.gtntgroup.com">
+																												<img class="w3-hide-medium w3-hide-small" src="https://umijqw.dm.files.1drv.com/y4mMYbl4PjxXzDFhLX3QSiuxf0jYe4gOAoPzH1dOyJl8LXNh0d3qGIpr-Pu4a15WtB7ps7WpImBzEY2MhXjuIRA6XpdtxZ6sSv4n3vF7T6CmUEnlFRa1KnANz8NheWrSAn_Zctu4VWwI5quEI8TV0UWhHV_QIYi881wb8QbC3Twd-h_8mZsjhFG-muuCno0tDn09g2NPyZXEzHn1xz5bzqRew/gs_06-09-2020_store268.png?psid=1" alt="Logo" style="width=156px" height="156px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmicqa.dm.files.1drv.com/y4mzWg6tE4Bc_V-UUFAHXKRGxod-oR2iUQo-43-MhxlYci6sgbkL03_gVawJLlc4RpiCbGWCXAXugXutthtda9-6ImU7PfuDPNqYQWCrbbQrvXfb6XSYF-FxritMjydiah5Z2mTr_Y6poS2Vybs6FFkJeFaHTMpXVZnDc003Iu3OWq6CNsUaS38Rw3-TAwge6XafkHIQ2CL6lsSBkamKSMUhQ/dk06234.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwicqa.dm.files.1drv.com/y4mVlqLVh51haDniCA5yV1owTnHJO2vjnmUBxodOSp_2hL5vAikTThWmppqrjLmE2ynXxr3C_3-4eb5InrfevsmxEJG-F9rV-UhY2-ytEEv3RyhQUrYunmIyuyD0pIkX6WbQ9Nqb11LGy9jcZv5I4yAxGJqADhTSXw6kTtiT4vR2PmJVVf779uq2MgXDFn0OMfH27ZRJNxaiNEKNmBcmY1mqw/dk06233.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwgdcq.dm.files.1drv.com/y4mFNHmWO7vYm_3A8vtv-DFuUxKy6xQf5ajV4xV8_suQ-rkbwhfvBzY61x5Klq6QN4SbHWb3ONxC-FXcd66j_POv5T3HETbnxhT2A3-jOp9n36GAuJf97b75uqbG8j-kpKVpu6G4Xvi_-756wnp6egkf7LidS9fXl-F172kQCuHbE3Zoq2-CUSLNIy6w2vnq3WDt8M2YnEMSib2V6BEYn-rBA/dk06243.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uggdcq.dm.files.1drv.com/y4mQWXKGS0PQESj-rqPgDMhMKPAtH7lQoteajJAvqcM9b6jZM60UMr-MV3AuCYagPOD2rOHg1PENSBi1okjfVDNz_d8b9OBxf6mEWn4GAFubnqlr0krw_UvS5Fja2hDXFuR7UtCqlyOUPtyyXtfyCGu8ljKFB0I8r5RHL3H2v7TyHgn1iGu3CvuJDkaRIJk3eiRqEWa3neXmDWHioeVlCsvGg/dk06242.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmgdcq.dm.files.1drv.com/y4mipqv2tjD_BsnGTjTACcXeqr2LZt_-E6J89qh-r0dt5Og5Eq7g9HhATqOAz7ZHKT7kjn5AhyETeRVj_T_C-yCAppllQ09VcrjN2rtJ2-oYtLZaq2Z4fgZYUZeOeUsXBaM0n_-B1Z_OeA7fPOWx3XkeVaLJK4W5pBhsDSNU4JT6aYSYXL8aZsDaVyhjMmVDGbeM2vewn6zvZMOrB0BHqrtxA/dk06244.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://umj8xa.dm.files.1drv.com/y4mKALSVQ3W-oc8b9Ov9dha6bo3z9BqIyIXwo8bvmOo21II4oW2VfLOYoLOnnLxfwHZQjVcccck-UdEYUKqtaQrOheTkBK8IAywwKSLdZr4hte9tMfb6Ul8SdhGLjJFnNjoUD6kUJk0oc8NOFB_EhCa6qpY20XLwwBEnCN2Neh-63phK4-MOsijERKapzI8mSZYxzWZtm_ck-PgKovTnzQIvg/dk06246.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																											</a>
+																											<div class="w3-third w3-center">
+																												<h2 class="w3-center w3-xxlarge w3-padding w3-text-light-grey w3-light-grey" id="introduce">
+																													<a href="https://www.gtntgroup.com">gtntgroup </a>
+																													<a class="w3-grey w3-padding-small" href="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1"  target="dotcom" imageanchor="1">
+																														<img alt="dotcom" src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1" border="0" data-src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?psid=1" class="lazyload" style="width:80px; height:24px"/>
+																													</a>
+																												</h2>
+																												<span style="color:lightgrey">(General tech & Network technology group)</span>
+																											</div>
+																										</div>
+																									</div>
+																									<h2 class="w3-center w3-padding w3-text-light-grey w3-dark-grey">Introduction</h2>
+																									<p class="w3-text-light-grey w3-pink">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
+																								</div>
+																								<!-- Second Grid -->
+																								<div class="w3-row w3-light-grey">
+																									<div class="w3-content">
+																										<div class="bg-width w3-center w3-light-grey w3-padding w3-animate-top">
+																											<a href="https://www.gtntgroup.com">
+																												<img class="w3-hide-medium w3-hide-small" src="https://umijqw.dm.files.1drv.com/y4mMYbl4PjxXzDFhLX3QSiuxf0jYe4gOAoPzH1dOyJl8LXNh0d3qGIpr-Pu4a15WtB7ps7WpImBzEY2MhXjuIRA6XpdtxZ6sSv4n3vF7T6CmUEnlFRa1KnANz8NheWrSAn_Zctu4VWwI5quEI8TV0UWhHV_QIYi881wb8QbC3Twd-h_8mZsjhFG-muuCno0tDn09g2NPyZXEzHn1xz5bzqRew/gs_06-09-2020_store268.png?psid=1" alt="Logo" style="width=156px" height="156px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmicqa.dm.files.1drv.com/y4mzWg6tE4Bc_V-UUFAHXKRGxod-oR2iUQo-43-MhxlYci6sgbkL03_gVawJLlc4RpiCbGWCXAXugXutthtda9-6ImU7PfuDPNqYQWCrbbQrvXfb6XSYF-FxritMjydiah5Z2mTr_Y6poS2Vybs6FFkJeFaHTMpXVZnDc003Iu3OWq6CNsUaS38Rw3-TAwge6XafkHIQ2CL6lsSBkamKSMUhQ/dk06234.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwicqa.dm.files.1drv.com/y4mVlqLVh51haDniCA5yV1owTnHJO2vjnmUBxodOSp_2hL5vAikTThWmppqrjLmE2ynXxr3C_3-4eb5InrfevsmxEJG-F9rV-UhY2-ytEEv3RyhQUrYunmIyuyD0pIkX6WbQ9Nqb11LGy9jcZv5I4yAxGJqADhTSXw6kTtiT4vR2PmJVVf779uq2MgXDFn0OMfH27ZRJNxaiNEKNmBcmY1mqw/dk06233.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwgdcq.dm.files.1drv.com/y4mFNHmWO7vYm_3A8vtv-DFuUxKy6xQf5ajV4xV8_suQ-rkbwhfvBzY61x5Klq6QN4SbHWb3ONxC-FXcd66j_POv5T3HETbnxhT2A3-jOp9n36GAuJf97b75uqbG8j-kpKVpu6G4Xvi_-756wnp6egkf7LidS9fXl-F172kQCuHbE3Zoq2-CUSLNIy6w2vnq3WDt8M2YnEMSib2V6BEYn-rBA/dk06243.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uggdcq.dm.files.1drv.com/y4mQWXKGS0PQESj-rqPgDMhMKPAtH7lQoteajJAvqcM9b6jZM60UMr-MV3AuCYagPOD2rOHg1PENSBi1okjfVDNz_d8b9OBxf6mEWn4GAFubnqlr0krw_UvS5Fja2hDXFuR7UtCqlyOUPtyyXtfyCGu8ljKFB0I8r5RHL3H2v7TyHgn1iGu3CvuJDkaRIJk3eiRqEWa3neXmDWHioeVlCsvGg/dk06242.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmgdcq.dm.files.1drv.com/y4mipqv2tjD_BsnGTjTACcXeqr2LZt_-E6J89qh-r0dt5Og5Eq7g9HhATqOAz7ZHKT7kjn5AhyETeRVj_T_C-yCAppllQ09VcrjN2rtJ2-oYtLZaq2Z4fgZYUZeOeUsXBaM0n_-B1Z_OeA7fPOWx3XkeVaLJK4W5pBhsDSNU4JT6aYSYXL8aZsDaVyhjMmVDGbeM2vewn6zvZMOrB0BHqrtxA/dk06244.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://umj8xa.dm.files.1drv.com/y4mKALSVQ3W-oc8b9Ov9dha6bo3z9BqIyIXwo8bvmOo21II4oW2VfLOYoLOnnLxfwHZQjVcccck-UdEYUKqtaQrOheTkBK8IAywwKSLdZr4hte9tMfb6Ul8SdhGLjJFnNjoUD6kUJk0oc8NOFB_EhCa6qpY20XLwwBEnCN2Neh-63phK4-MOsijERKapzI8mSZYxzWZtm_ck-PgKovTnzQIvg/dk06246.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																											</a>
+																											<div class="w3-third w3-center">
+																												<h2 class="w3-center w3-xxlarge w3-padding w3-text-light-grey w3-light-grey" id="introduce">
+																													<a href="https://www.gtntgroup.com">gtntgroup </a>
+																													<a class="w3-grey w3-padding-small" href="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1"  target="dotcom" imageanchor="1">
+																														<img alt="dotcom" src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1" border="0" data-src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?psid=1" class="lazyload" style="width:80px; height:24px"/>
+																													</a>
+																												</h2>
+																												<span style="color:lightgrey">(General tech & Network technology group)</span>
+																											</div>
+																										</div>
+																									</div>
+																									<h2 class="w3-center w3-padding w3-text-light-grey w3-dark-grey">Introduction</h2>
+																									<p class="w3-text-light-grey w3-pink">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
+																								</div>
+																								<!-- third Grid -->
+																								<div class="w3-row w3-light-grey">
+																									<div class="w3-content">
+																										<div class="bg-width w3-center w3-light-grey w3-padding w3-animate-top">
+																											<a href="https://www.gtntgroup.com">
+																												<img class="w3-hide-medium w3-hide-small" src="https://umijqw.dm.files.1drv.com/y4mMYbl4PjxXzDFhLX3QSiuxf0jYe4gOAoPzH1dOyJl8LXNh0d3qGIpr-Pu4a15WtB7ps7WpImBzEY2MhXjuIRA6XpdtxZ6sSv4n3vF7T6CmUEnlFRa1KnANz8NheWrSAn_Zctu4VWwI5quEI8TV0UWhHV_QIYi881wb8QbC3Twd-h_8mZsjhFG-muuCno0tDn09g2NPyZXEzHn1xz5bzqRew/gs_06-09-2020_store268.png?psid=1" alt="Logo" style="width=156px" height="156px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmicqa.dm.files.1drv.com/y4mzWg6tE4Bc_V-UUFAHXKRGxod-oR2iUQo-43-MhxlYci6sgbkL03_gVawJLlc4RpiCbGWCXAXugXutthtda9-6ImU7PfuDPNqYQWCrbbQrvXfb6XSYF-FxritMjydiah5Z2mTr_Y6poS2Vybs6FFkJeFaHTMpXVZnDc003Iu3OWq6CNsUaS38Rw3-TAwge6XafkHIQ2CL6lsSBkamKSMUhQ/dk06234.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwicqa.dm.files.1drv.com/y4mVlqLVh51haDniCA5yV1owTnHJO2vjnmUBxodOSp_2hL5vAikTThWmppqrjLmE2ynXxr3C_3-4eb5InrfevsmxEJG-F9rV-UhY2-ytEEv3RyhQUrYunmIyuyD0pIkX6WbQ9Nqb11LGy9jcZv5I4yAxGJqADhTSXw6kTtiT4vR2PmJVVf779uq2MgXDFn0OMfH27ZRJNxaiNEKNmBcmY1mqw/dk06233.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwgdcq.dm.files.1drv.com/y4mFNHmWO7vYm_3A8vtv-DFuUxKy6xQf5ajV4xV8_suQ-rkbwhfvBzY61x5Klq6QN4SbHWb3ONxC-FXcd66j_POv5T3HETbnxhT2A3-jOp9n36GAuJf97b75uqbG8j-kpKVpu6G4Xvi_-756wnp6egkf7LidS9fXl-F172kQCuHbE3Zoq2-CUSLNIy6w2vnq3WDt8M2YnEMSib2V6BEYn-rBA/dk06243.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uggdcq.dm.files.1drv.com/y4mQWXKGS0PQESj-rqPgDMhMKPAtH7lQoteajJAvqcM9b6jZM60UMr-MV3AuCYagPOD2rOHg1PENSBi1okjfVDNz_d8b9OBxf6mEWn4GAFubnqlr0krw_UvS5Fja2hDXFuR7UtCqlyOUPtyyXtfyCGu8ljKFB0I8r5RHL3H2v7TyHgn1iGu3CvuJDkaRIJk3eiRqEWa3neXmDWHioeVlCsvGg/dk06242.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmgdcq.dm.files.1drv.com/y4mipqv2tjD_BsnGTjTACcXeqr2LZt_-E6J89qh-r0dt5Og5Eq7g9HhATqOAz7ZHKT7kjn5AhyETeRVj_T_C-yCAppllQ09VcrjN2rtJ2-oYtLZaq2Z4fgZYUZeOeUsXBaM0n_-B1Z_OeA7fPOWx3XkeVaLJK4W5pBhsDSNU4JT6aYSYXL8aZsDaVyhjMmVDGbeM2vewn6zvZMOrB0BHqrtxA/dk06244.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://umj8xa.dm.files.1drv.com/y4mKALSVQ3W-oc8b9Ov9dha6bo3z9BqIyIXwo8bvmOo21II4oW2VfLOYoLOnnLxfwHZQjVcccck-UdEYUKqtaQrOheTkBK8IAywwKSLdZr4hte9tMfb6Ul8SdhGLjJFnNjoUD6kUJk0oc8NOFB_EhCa6qpY20XLwwBEnCN2Neh-63phK4-MOsijERKapzI8mSZYxzWZtm_ck-PgKovTnzQIvg/dk06246.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																											</a>
+																											<div class="w3-third w3-center">
+																												<h2 class="w3-center w3-xxlarge w3-padding w3-text-light-grey w3-light-grey" id="introduce">
+																													<a href="https://www.gtntgroup.com">gtntgroup </a>
+																													<a class="w3-grey w3-padding-small" href="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1"  target="dotcom" imageanchor="1">
+																														<img alt="dotcom" src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1" border="0" data-src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?psid=1" class="lazyload" style="width:80px; height:24px"/>
+																													</a>
+																												</h2>
+																												<span style="color:lightgrey">(General tech & Network technology group)</span>
+																											</div>
+																										</div>
+																									</div>
+																									<h2 class="w3-center w3-padding w3-text-light-grey w3-dark-grey">Introduction</h2>
+																									<p class="w3-text-light-grey w3-pink">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
+																								</div>
+																								<!-- forth Grid -->
+																								<div class="w3-row w3-light-grey">
+																									<div class="w3-content">
+																										<div class="bg-width w3-center w3-light-grey w3-padding w3-animate-top">
+																											<a href="https://www.gtntgroup.com">
+																												<img class="w3-hide-medium w3-hide-small" src="https://umijqw.dm.files.1drv.com/y4mMYbl4PjxXzDFhLX3QSiuxf0jYe4gOAoPzH1dOyJl8LXNh0d3qGIpr-Pu4a15WtB7ps7WpImBzEY2MhXjuIRA6XpdtxZ6sSv4n3vF7T6CmUEnlFRa1KnANz8NheWrSAn_Zctu4VWwI5quEI8TV0UWhHV_QIYi881wb8QbC3Twd-h_8mZsjhFG-muuCno0tDn09g2NPyZXEzHn1xz5bzqRew/gs_06-09-2020_store268.png?psid=1" alt="Logo" style="width=156px" height="156px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmicqa.dm.files.1drv.com/y4mzWg6tE4Bc_V-UUFAHXKRGxod-oR2iUQo-43-MhxlYci6sgbkL03_gVawJLlc4RpiCbGWCXAXugXutthtda9-6ImU7PfuDPNqYQWCrbbQrvXfb6XSYF-FxritMjydiah5Z2mTr_Y6poS2Vybs6FFkJeFaHTMpXVZnDc003Iu3OWq6CNsUaS38Rw3-TAwge6XafkHIQ2CL6lsSBkamKSMUhQ/dk06234.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwicqa.dm.files.1drv.com/y4mVlqLVh51haDniCA5yV1owTnHJO2vjnmUBxodOSp_2hL5vAikTThWmppqrjLmE2ynXxr3C_3-4eb5InrfevsmxEJG-F9rV-UhY2-ytEEv3RyhQUrYunmIyuyD0pIkX6WbQ9Nqb11LGy9jcZv5I4yAxGJqADhTSXw6kTtiT4vR2PmJVVf779uq2MgXDFn0OMfH27ZRJNxaiNEKNmBcmY1mqw/dk06233.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwgdcq.dm.files.1drv.com/y4mFNHmWO7vYm_3A8vtv-DFuUxKy6xQf5ajV4xV8_suQ-rkbwhfvBzY61x5Klq6QN4SbHWb3ONxC-FXcd66j_POv5T3HETbnxhT2A3-jOp9n36GAuJf97b75uqbG8j-kpKVpu6G4Xvi_-756wnp6egkf7LidS9fXl-F172kQCuHbE3Zoq2-CUSLNIy6w2vnq3WDt8M2YnEMSib2V6BEYn-rBA/dk06243.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uggdcq.dm.files.1drv.com/y4mQWXKGS0PQESj-rqPgDMhMKPAtH7lQoteajJAvqcM9b6jZM60UMr-MV3AuCYagPOD2rOHg1PENSBi1okjfVDNz_d8b9OBxf6mEWn4GAFubnqlr0krw_UvS5Fja2hDXFuR7UtCqlyOUPtyyXtfyCGu8ljKFB0I8r5RHL3H2v7TyHgn1iGu3CvuJDkaRIJk3eiRqEWa3neXmDWHioeVlCsvGg/dk06242.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmgdcq.dm.files.1drv.com/y4mipqv2tjD_BsnGTjTACcXeqr2LZt_-E6J89qh-r0dt5Og5Eq7g9HhATqOAz7ZHKT7kjn5AhyETeRVj_T_C-yCAppllQ09VcrjN2rtJ2-oYtLZaq2Z4fgZYUZeOeUsXBaM0n_-B1Z_OeA7fPOWx3XkeVaLJK4W5pBhsDSNU4JT6aYSYXL8aZsDaVyhjMmVDGbeM2vewn6zvZMOrB0BHqrtxA/dk06244.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://umj8xa.dm.files.1drv.com/y4mKALSVQ3W-oc8b9Ov9dha6bo3z9BqIyIXwo8bvmOo21II4oW2VfLOYoLOnnLxfwHZQjVcccck-UdEYUKqtaQrOheTkBK8IAywwKSLdZr4hte9tMfb6Ul8SdhGLjJFnNjoUD6kUJk0oc8NOFB_EhCa6qpY20XLwwBEnCN2Neh-63phK4-MOsijERKapzI8mSZYxzWZtm_ck-PgKovTnzQIvg/dk06246.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																											</a>
+																											<div class="w3-third w3-center">
+																												<h2 class="w3-center w3-xxlarge w3-padding w3-text-light-grey w3-light-grey" id="introduce">
+																													<a href="https://www.gtntgroup.com">gtntgroup </a>
+																													<a class="w3-grey w3-padding-small" href="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1"  target="dotcom" imageanchor="1">
+																														<img alt="dotcom" src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1" border="0" data-src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?psid=1" class="lazyload" style="width:80px; height:24px"/>
+																													</a>
+																												</h2>
+																												<span style="color:lightgrey">(General tech & Network technology group)</span>
+																											</div>
+																										</div>
+																									</div>
+																									<h2 class="w3-center w3-padding w3-text-light-grey w3-dark-grey">Introduction</h2>
+																									<p class="w3-text-light-grey w3-pink">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
+																								</div>
+																								<!-- fifth Grid -->
+																								<div class="w3-row w3-light-grey">
+																									<div class="w3-content">
+																										<div class="bg-width w3-center w3-light-grey w3-padding w3-animate-top">
+																											<a href="https://www.gtntgroup.com">
+																												<img class="w3-hide-medium w3-hide-small" src="https://umijqw.dm.files.1drv.com/y4mMYbl4PjxXzDFhLX3QSiuxf0jYe4gOAoPzH1dOyJl8LXNh0d3qGIpr-Pu4a15WtB7ps7WpImBzEY2MhXjuIRA6XpdtxZ6sSv4n3vF7T6CmUEnlFRa1KnANz8NheWrSAn_Zctu4VWwI5quEI8TV0UWhHV_QIYi881wb8QbC3Twd-h_8mZsjhFG-muuCno0tDn09g2NPyZXEzHn1xz5bzqRew/gs_06-09-2020_store268.png?psid=1" alt="Logo" style="width=156px" height="156px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmicqa.dm.files.1drv.com/y4mzWg6tE4Bc_V-UUFAHXKRGxod-oR2iUQo-43-MhxlYci6sgbkL03_gVawJLlc4RpiCbGWCXAXugXutthtda9-6ImU7PfuDPNqYQWCrbbQrvXfb6XSYF-FxritMjydiah5Z2mTr_Y6poS2Vybs6FFkJeFaHTMpXVZnDc003Iu3OWq6CNsUaS38Rw3-TAwge6XafkHIQ2CL6lsSBkamKSMUhQ/dk06234.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwicqa.dm.files.1drv.com/y4mVlqLVh51haDniCA5yV1owTnHJO2vjnmUBxodOSp_2hL5vAikTThWmppqrjLmE2ynXxr3C_3-4eb5InrfevsmxEJG-F9rV-UhY2-ytEEv3RyhQUrYunmIyuyD0pIkX6WbQ9Nqb11LGy9jcZv5I4yAxGJqADhTSXw6kTtiT4vR2PmJVVf779uq2MgXDFn0OMfH27ZRJNxaiNEKNmBcmY1mqw/dk06233.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uwgdcq.dm.files.1drv.com/y4mFNHmWO7vYm_3A8vtv-DFuUxKy6xQf5ajV4xV8_suQ-rkbwhfvBzY61x5Klq6QN4SbHWb3ONxC-FXcd66j_POv5T3HETbnxhT2A3-jOp9n36GAuJf97b75uqbG8j-kpKVpu6G4Xvi_-756wnp6egkf7LidS9fXl-F172kQCuHbE3Zoq2-CUSLNIy6w2vnq3WDt8M2YnEMSib2V6BEYn-rBA/dk06243.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://uggdcq.dm.files.1drv.com/y4mQWXKGS0PQESj-rqPgDMhMKPAtH7lQoteajJAvqcM9b6jZM60UMr-MV3AuCYagPOD2rOHg1PENSBi1okjfVDNz_d8b9OBxf6mEWn4GAFubnqlr0krw_UvS5Fja2hDXFuR7UtCqlyOUPtyyXtfyCGu8ljKFB0I8r5RHL3H2v7TyHgn1iGu3CvuJDkaRIJk3eiRqEWa3neXmDWHioeVlCsvGg/dk06242.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://wmgdcq.dm.files.1drv.com/y4mipqv2tjD_BsnGTjTACcXeqr2LZt_-E6J89qh-r0dt5Og5Eq7g9HhATqOAz7ZHKT7kjn5AhyETeRVj_T_C-yCAppllQ09VcrjN2rtJ2-oYtLZaq2Z4fgZYUZeOeUsXBaM0n_-B1Z_OeA7fPOWx3XkeVaLJK4W5pBhsDSNU4JT6aYSYXL8aZsDaVyhjMmVDGbeM2vewn6zvZMOrB0BHqrtxA/dk06244.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																												<img class="w3-hide-small w3-padding-small" src="https://umj8xa.dm.files.1drv.com/y4mKALSVQ3W-oc8b9Ov9dha6bo3z9BqIyIXwo8bvmOo21II4oW2VfLOYoLOnnLxfwHZQjVcccck-UdEYUKqtaQrOheTkBK8IAywwKSLdZr4hte9tMfb6Ul8SdhGLjJFnNjoUD6kUJk0oc8NOFB_EhCa6qpY20XLwwBEnCN2Neh-63phK4-MOsijERKapzI8mSZYxzWZtm_ck-PgKovTnzQIvg/dk06246.gif?psid=1" alt="G-Tech Logo" style="width=128px" height="128px"/>
+																											</a>
+																											<div class="w3-third w3-center">
+																												<h2 class="w3-center w3-xxlarge w3-padding w3-text-light-grey w3-light-grey" id="introduce">
+																													<a href="https://www.gtntgroup.com">gtntgroup </a>
+																													<a class="w3-grey w3-padding-small" href="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1"  target="dotcom" imageanchor="1">
+																														<img alt="dotcom" src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?attredirects=1" border="0" data-src="https://ppidkq.dm.files.1drv.com/y4mF0dSLLOExJTDFNJDyJspahvzYYxeFUWypKxCodw7zJngRHlis5b9ca5oOPUN2X8fYp7ptFMpKmVA6egeaktgxp1vwpaLmTljD59HFkFtn9l4SYDspFgmRCYp5r1FGGSfa5mz-MF5N5b6abRQ3Vupe2si7xvzvebynVSEmMmyibnhbePBRMd7lwHMAeB88JIhp4Z0Tl4VZsLdeGk_iZXm5Q/gs_06-13-2020_store322.png?psid=1" class="lazyload" style="width:80px; height:24px"/>
+																													</a>
+																												</h2>
+																												<span style="color:lightgrey">(General tech & Network technology group)</span>
+																											</div>
+																										</div>
+																									</div>
+																									<h2 class="w3-center w3-padding w3-text-light-grey w3-dark-grey">Introduction</h2>
+																									<p class="w3-text-light-grey w3-pink">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
+																								</div>
+																								<!-- Footer -->
+																								<footer class="w3-container w3-padding-64 w3-center w3-opacity">
+																									<div class="w3-xlarge w3-padding-32">
+																									<a href="https://www.facebook.com/GClubFanPage/">
+																										<i class="fa fa-facebook-official w3-hover-opacity"></i>
+																										</a>
+																										<a href="https://www.instagram.com/tontrakool_decha/">
+																										<i class="fa fa-instagram w3-hover-opacity"></i>
+																										</a>
+																										<a href="https://www.flickr.com/photos/admin-gen/albums">
+																										<i class="fa fa-flickr w3-hover-opacity" aria-hidden="true"></i>
+																										</a>
+																										<a href="https://www.pinterest.com/Admim_Gen/">
+																										<i class="fa fa-pinterest-p w3-hover-opacity"></i>
+																										</a>
+																										<a href="https://mobile.twitter.com/Gen_GtNtGroup/">																			
+																										<i class="fa fa-twitter w3-hover-opacity"></i>
+																										</a>
+																										<a href="https://www.linkedin.com/in/tontrakool/">
+																										<i class="fa fa-linkedin w3-hover-opacity"></i>
+																										</a>
+																										<a href="https://www.youtube.com/channel/UCehy9XPvnwAyDy8NWgAEuiA">
+																										<i class="fa fa-youtube-play" style="font-size:48px;color:red"></i>
+																									</div>
+																									</a>
+																									<p>Powered by 
+										
+																										<a href="https://www.gtntgroup.com" target="_blank">gtntgroup.com</a>
+																									</p>
+																								</footer>
+																								<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+																								<h2>ABOUT US</h2>
+																								<h4>Resize the browser window to see the effect.</h4>
+																								<div class="responsive">
+																									<div class="gallery">
+																										<a target="_blank" href="https://t2juzg.dm.files.1drv.com/y4mGPZfUWRASWE9Zzk5Z7mnHqvHnR40x7_BCKJCfruZ5Ygr2jL0P4GPzs8hkyT_-UXJjXN-gRadWPVTg6PblWMFtLrvckQuVglh0iZYXwHLz3dMxnwYgM0GXerMQIGDex-7fQ8iyg9tcB1SJGOliSruXvtQmexGLVdIBo6Y81SwcGBn8Kb2TZSblKAMIPQMyeqXeg3qG4q4V_joLhPbWo2eJA/THE%20Official%20Site%20%283%29.jpg?psid=1">
+																											<img src="https://t2juzg.dm.files.1drv.com/y4mGPZfUWRASWE9Zzk5Z7mnHqvHnR40x7_BCKJCfruZ5Ygr2jL0P4GPzs8hkyT_-UXJjXN-gRadWPVTg6PblWMFtLrvckQuVglh0iZYXwHLz3dMxnwYgM0GXerMQIGDex-7fQ8iyg9tcB1SJGOliSruXvtQmexGLVdIBo6Y81SwcGBn8Kb2TZSblKAMIPQMyeqXeg3qG4q4V_joLhPbWo2eJA/THE%20Official%20Site%20%283%29.jpg?psid=1" alt="GtNt GROUP" width="600" height="400">
+																											</a>
+																											<div class="desc Nosifer">THE OFFICIAL SITE</div>
+																										</div>
+																									</div>
+																									<div class="responsive">
+																										<div class="gallery">
+																											<a target="_blank" href="https://pjiikq.dm.files.1drv.com/y4mDERFmX9mhJDM8tcxh5kIJBRuSQ9ZuTJTGjngNYeDSfw87EECyKNaW5JftO2TPPwxUu1hQqZV4yqJWPVfeJXAXttMGJL4fYtqRFYFsP6E82Lz_4tew19lqSoZ-uAkWnmRXEimaRgCG4rUvQteh0MIOv20vRze9n_G5q5WUjKu0V7Hzo-rSs8nohMjxpWbN5Q9pqPR4TUvAnIjUXmqAf1G4Q/gs_06-18-2020_store409.jpg?psid=1">
+																												<img src="https://pjiikq.dm.files.1drv.com/y4mDERFmX9mhJDM8tcxh5kIJBRuSQ9ZuTJTGjngNYeDSfw87EECyKNaW5JftO2TPPwxUu1hQqZV4yqJWPVfeJXAXttMGJL4fYtqRFYFsP6E82Lz_4tew19lqSoZ-uAkWnmRXEimaRgCG4rUvQteh0MIOv20vRze9n_G5q5WUjKu0V7Hzo-rSs8nohMjxpWbN5Q9pqPR4TUvAnIjUXmqAf1G4Q/gs_06-18-2020_store409.jpg?psid=1" alt="phantom zone" width="600" height="400">
+																												</a>
+																												<div class="desc Nosifer">MARKET PLACES</div>
+																											</div>
+																										</div>
+																										<div class="responsive">
+																											<div class="gallery">
+																												<a target="_blank" href="https://pjidkq.dm.files.1drv.com/y4m04aAOYSEcmXLpuJOFQFfETQeLIyqqHE08woZKXHxYfe8QOGoZJsWxTLqI6wKGw5wpYVcFWWDlDS1Brv5ir4fC2zW299nIfeUZ1WIT2aPvqxfnmjREE1Yrp0co-Fg-1g3I182KMQ_x6EMx_coJBk4r_4lw1cYqtEstFPBgIOe7WdqaWCCBl6UQ8VFQwA_e4UkNFyp3S1JdgGXIIJpT5oY4w/gs-collection.png?psid=1">
+																													<img src="https://pjidkq.dm.files.1drv.com/y4m04aAOYSEcmXLpuJOFQFfETQeLIyqqHE08woZKXHxYfe8QOGoZJsWxTLqI6wKGw5wpYVcFWWDlDS1Brv5ir4fC2zW299nIfeUZ1WIT2aPvqxfnmjREE1Yrp0co-Fg-1g3I182KMQ_x6EMx_coJBk4r_4lw1cYqtEstFPBgIOe7WdqaWCCBl6UQ8VFQwA_e4UkNFyp3S1JdgGXIIJpT5oY4w/gs-collection.png?psid=1" alt="g-collection" width="600" height="400">
+																													</a>
+																													<div class="desc Nosifer">GS-COLLECTION</div>
+																												</div>
+																											</div>
+																											<div class="responsive">
+																												<div class="gallery">
+																													<a target="_blank" href="https://pjijkq.dm.files.1drv.com/y4mZ8LVdzNVWHjYQ2fB3waTjhhFxW3zHXQ4WsoCChDZ5ALkk-8WkLGmAnmaxE_bHEUL76NaZBwGtEUc7HLEkni_eThEXnCaiayEvzEgSV16a1oIyUjAAKtxNyH7l0Gj-BsOfswv_aer3VXZjIbHdK1hG8NbhUkZw74vToKkJdScPXl4mRkvujWOcPDPn7xtxpCJ_uqiKn7cYs1Dxisd8sFfIg/gs_06-18-2020_store416.jpg?psid=1">
+																														<img src="https://pjijkq.dm.files.1drv.com/y4mZ8LVdzNVWHjYQ2fB3waTjhhFxW3zHXQ4WsoCChDZ5ALkk-8WkLGmAnmaxE_bHEUL76NaZBwGtEUc7HLEkni_eThEXnCaiayEvzEgSV16a1oIyUjAAKtxNyH7l0Gj-BsOfswv_aer3VXZjIbHdK1hG8NbhUkZw74vToKkJdScPXl4mRkvujWOcPDPn7xtxpCJ_uqiKn7cYs1Dxisd8sFfIg/gs_06-18-2020_store416.jpg?psid=1" alt="GtN-Tech" width="600" height="400">
+																														</a>
+																														<div class="desc Nosifer">HELP & SUPPORT TEAM</div>
+																													</div>
+																												</div>
+																												<div class="clearfix"></div>
+																												<div style="padding:6px;">
+																													<p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
+																													<p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+																												</div>
+																												<hr>
+																													<div class="bgimg">
+																														<script>
+var app = angular.module("myShoppingList", []); 
+app.controller("myCtrl", function($scope) {
+    $scope.products = ["Milk", "Bread", "Cheese"];
+    $scope.addItem = function () {
+        $scope.errortext = "";
+        if (!$scope.addMe) {return;}
+        if ($scope.products.indexOf($scope.addMe) == -1) {
+            $scope.products.push($scope.addMe);
+        } else {
+            $scope.errortext = "The item is already in your shopping list.";
+        }
+    }
+    $scope.removeItem = function (x) {
+        $scope.errortext = "";    
+        $scope.products.splice(x, 1);
+    }
+});
+</script>
+																														<div ng-app="myShoppingList" ng-cloak ng-controller="myCtrl" class="w3-card-2 w3-margin" style="max-width:400px;">
+																															<header class="w3-container w3-padding-16 w3-text-light-grey">
+																																<h3 class="Nosifer">Book Mark</h3>
+																															</header>
+																															<ul class="w3-ul w3-text-light-grey">
+																																<li ng-repeat="x in products" class="w3-padding-16">{{x}}
+																																	<span ng-click="removeItem($index)" style="cursor:pointer;" class="w3-right w3-margin-right w3-opacity"><img class="lazyload" border="0" data-src="https://85iekq.dm.files.1drv.com/y4mFnydpKHqqgfhBwrquJCcSvuHcBxGzlcw4jO8TtXfCJFnvGr2ar6oFLe3LtvIN9TIIaMtBZaZbeXI5QRa_vLOtCfMN-aMavFfmAAqt-I12BcgjC1z36o9aYH8dVP5a4gZSNddrtcxp6wMrhNjeJfTWeKoXmXIFfnIqb01xEsNqzKRxEnaaX2fjCiSR31-TXoIEH5AlsTQjbOtXDt-J3wqbA/gs_06-20-2020_store446.png?psid=1" src="https://85idkq.dm.files.1drv.com/y4m1zwLhCjCYg7FQIMg7uGZnsvDlgs8slrYmeZYuI5z6YfdBCCYjgzQZhTlFnqNmVt9sYJB4QPO6yVS6haRRFhiZlEi6jUroz1wwVYWh3pr1kftDPZlAX4tlkbuGKkXDmuj8d_js3BoPhqxTis9-QJM9cNRq_Mg7CH9s6fvIJ1EycqfErDBnvnnGThVgXGTR1F_lIRmRhX5ttaF6sLlg01wPA/gs_06-20-2020_store445.gif?psid=1" style="width:16px;height:16px"/></span>
+																																</li>
+																															</ul>
+																															<div class="w3-container w3-padding-16" style="background-color: transparent">
+																																<div class="w3-row w3-margin-top">
+																																	<div class="w3-col s10">
+																																		<input placeholder="Add shopping items here" ng-model="addMe" class="w3-input w3-border w3-padding">
+																																		</div>
+																																		<div class="w3-col s2">
+																																			<button ng-click="addItem()" class="w3-btn w3-padding w3-pink">Add</button>
+																																		</div>
+																																	</div>
+																																	<p class="w3-text-red">{{errortext}}</p>
+																																</div>
+																															</div>
+																														</div>
+																														<hr>
+																															<div>
+																																<!-- Side Navigation -->
+																																<nav class="w3-sidebar w3-bar-block w3-card w3-animate-left w3-center" style="display:none" id="mySidebar">
+																																	<h1 class="w3-xxxlarge w3-text-theme">Side Navigation</h1>
+																																	<button class="w3-bar-item w3-button" onclick="w3_close()">Close 
+																																		<i class="fa fa-remove"></i>
+																																	</button>
+																																	<a href="#" class="w3-bar-item w3-button">Link 1</a>
+																																	<a href="#" class="w3-bar-item w3-button">Link 2</a>
+																																	<a href="#" class="w3-bar-item w3-button">Link 3</a>
+																																	<a href="#" class="w3-bar-item w3-button">Link 4</a>
+																																</nav>
+																																<!-- Header -->
+																																<header class="w3-container w3-theme w3-padding" id="myHeader">
+																																	<i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i>
+																																	<div class="w3-center">
+																																		<h4>BEAUTIFUL RESPONSIVE WEB SITES</h4>
+																																		<h1 class="w3-xxxlarge w3-animate-bottom">BUILT WITH W3.CSS</h1>
+																																		<div class="w3-padding-32">
+																																			<button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">LEARN W3.CSS</button>
+																																		</div>
+																																	</div>
+																																</header>
+																																<!-- Modal -->
+																																<div id="id01" class="w3-modal">
+																																	<div class="w3-modal-content w3-card-4 w3-animate-top">
+																																		<header class="w3-container w3-theme-l1">
+																																			<span onclick="document.getElementById('id01').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+																																			<h4>Oh snap! We just showed you a modal..</h4>
+																																			<h5>Because we can 
+																																				<i class="fa fa-smile-o"></i>
+																																			</h5>
+																																		</header>
+																																		<div class="w3-padding">
+																																			<p>Cool huh? Ok, enough teasing around..</p>
+																																			<p>Go to our 
+																																				<a class="w3-btn" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!
+																																			</p>
+																																		</div>
+																																		<footer class="w3-container w3-theme-l1">
+																																			<p>Modal footer</p>
+																																		</footer>
+																																	</div>
+																																</div>
+																																<div class="w3-row-padding w3-center w3-margin-top">
+																																	<div class="w3-third">
+																																		<div class="w3-card w3-container" style="min-height:460px">
+																																			<h3>Responsive</h3>
+																																			<br>
+																																				<i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+																																				<p>Built-in responsiveness</p>
+																																				<p>Mobile first fluid grid</p>
+																																				<p>Fits any screen sizes</p>
+																																				<p>PC Tablet and Mobile</p>
+																																			</div>
+																																		</div>
+																																		<div class="w3-third">
+																																			<div class="w3-card w3-container" style="min-height:460px">
+																																				<h3>Standard CSS</h3>
+																																				<br>
+																																					<i class="fa fa-css3 w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+																																					<p>Standard CSS only</p>
+																																					<p>Easy to learn</p>
+																																					<p>No need for jQuery</p>
+																																					<p>No JavaScript library</p>
+																																				</div>
+																																			</div>
+																																			<div class="w3-third">
+																																				<div class="w3-card w3-container" style="min-height:460px">
+																																					<h3>Design</h3>
+																																					<br>
+																																						<i class="fa fa-diamond w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+																																						<p>Paper like design</p>
+																																						<p>Bold colors and shadows</p>
+																																						<p>Equal across platforms</p>
+																																						<p>Equal across devices</p>
+																																					</div>
+																																				</div>
+																																			</div>
+																																			<div class="w3-container">
+																																				<hr>
+																																					<div class="w3-center">
+																																						<h2>Color Classes</h2>
+																																					</div>
+																																					<div class="w3-row">
+																																						<div class="w3-col w3-container m2 w3-red">
+																																							<p>Red</p>
+																																						</div>
+																																						<div class="w3-col w3-container m2 w3-blue">
+																																							<p>Blue</p>
+																																						</div>
+																																						<div class="w3-col w3-container m2 w3-blue-grey">
+																																							<p>Blue Grey</p>
+																																						</div>
+																																						<div class="w3-col w3-container m2 w3-teal">
+																																							<p>Teal</p>
+																																						</div>
+																																						<div class="w3-col w3-container m2 w3-yellow">
+																																							<p>Yellow</p>
+																																						</div>
+																																						<div class="w3-col w3-container m2 w3-orange">
+																																							<p>Orange</p>
+																																						</div>
+																																					</div>
+																																					<hr>
+																																						<div class="w3-center">
+																																							<h2>Built-In Responsiveness</h2>
+																																							<p class="w3-large">Resize the page to see the effect!</p>
+																																						</div>
+																																						<br>
+																																							<div class="w3-row w3-border">
+																																								<div class="w3-half w3-container w3-blue w3-border">
+																																									<h5>w3-half</h5>
+																																									<p>The w3-half class uses half (50%) of the screen window.</p>
+																																									<p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
+																																								</div>
+																																								<div class="w3-half w3-container">
+																																									<h5>w3-half</h5>
+																																								</div>
+																																							</div>
+																																							<br>
+																																								<div class="w3-row w3-border">
+																																									<div class="w3-third w3-container w3-green">
+																																										<h5>w3-third</h5>
+																																										<p>The w3-third class uses one third (33.33%) of the screen widow.</p>
+																																										<p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
+																																									</div>
+																																									<div class="w3-third w3-container">
+																																										<h5>w3-third</h5>
+																																									</div>
+																																									<div class="w3-third w3-container">
+																																										<h5>w3-third</h5>
+																																									</div>
+																																								</div>
+																																								<br>
+																																									<div class="w3-row w3-border">
+																																										<div class="w3-quarter w3-container w3-red">
+																																											<h5>w3-quarter</h5>
+																																											<p>The w3-quarter class uses one quarter (25%) of the screen window.</p>
+																																											<p>On small screens (max 600 pixels) it automatically resizes to full screen width.</p>
+																																										</div>
+																																										<div class="w3-quarter w3-container">
+																																											<h5>w3-quarter</h5>
+																																										</div>
+																																										<div class="w3-quarter w3-container">
+																																											<h5>w3-quarter</h5>
+																																										</div>
+																																										<div class="w3-quarter w3-container">
+																																											<h5>w3-quarter</h5>
+																																										</div>
+																																									</div>
+																																									<div class="w3-center">
+																																										<h2>Containers</h2>
+																																										<p>Use containers to create headers, sections and footers.</p>
+																																									</div>
+																																									<header class="w3-container w3-blue-grey">
+																																										<h2>Header</h2>
+																																									</header>
+																																									<div class="w3-padding w3-white w3-display-container">
+																																										<span onclick="this.parentElement.style.display='none'" class="w3-button w3-display-topright">
+																																											<i class="fa fa-remove"></i>
+																																										</span>
+																																										<h2>GSCOLLECTION</h2>
+																																										<p class="meieScript">London is the capital city of England. It is the most populous city in the United Kingdom,
+  with a metropolitan area of over 13 million inhabitants.</p>
+																																										<p>Standing on the River Thames, London has been a major settlement for two millennia,
+  its history going back to its founding by the Romans, who named it Londinium.</p>
+																																										<p>By the way, you can add a close icon to all containers if you want the ability to hide them. Look to your right!</p>
+																																									</div>
+																																									<footer class="w3-container w3-blue-grey">
+																																										<h5>CONTACT</h5>
+																																										<p class="w3-opacity">Footer information goes here</p>
+																																									</footer>
+																																									<hr>
+																																										<div class="w3-center">
+																																											<h2>Color Themes</h2>
+																																											<p>The color themes have been designed to work harmoniously with each other.</p>
+																																										</div>
+																																									</div>
+																																									<div class="w3-row-padding">
+																																										<div class="w3-half">
+																																											<div class="w3-card white">
+																																												<div class="w3-container w3-indigo">
+																																													<h3>Theme Indigo</h3>
+																																												</div>
+																																												<div class="w3-container">
+																																													<h3 class="w3-text-indigo">Movies 2014</h3>
+																																												</div>
+																																												<ul class="w3-ul w3-border-top">
+																																													<li>
+																																														<h3>Frozen</h3>
+																																														<p>The response to the animations was ridiculous</p>
+																																													</li>
+																																													<li>
+																																														<h3>The Fault in Our Stars</h3>
+																																														<p>Touching, gripping and genuinely well made</p>
+																																													</li>
+																																													<li>
+																																														<h3 class="Nosifer">G`BOX PLAY</h3>
+																																														<p class="Nosifer">New Releases</p>
+																																													</li>
+																																												</ul>
+																																												<div class="w3-container w3-indigo w3-large">
+																																													<span class="w3-right">Next</span>
+																																												</div>
+																																											</div>
+																																										</div>
+																																										<div class="w3-half">
+																																											<div class="w3-card white">
+																																												<div class="w3-container w3-theme">
+																																													<h3>Theme</h3>
+																																												</div>
+																																												<div class="w3-container">
+																																													<h3 class="w3-text-theme">Movies 2014</h3>
+																																												</div>
+																																												<ul class="w3-ul w3-border-top">
+																																													<li>
+																																														<h3>Frozen</h3>
+																																														<p>The response to the animations was ridiculous</p>
+																																													</li>
+																																													<li>
+																																														<h3>The Fault in Our Stars</h3>
+																																														<p>Touching, gripping and genuinely well made</p>
+																																													</li>
+																																													<li>
+																																														<h3>The Avengers</h3>
+																																														<p>A huge success for Marvel and Disney</p>
+																																													</li>
+																																												</ul>
+																																												<div class="w3-container w3-theme w3-large">
+																																													<span class="w3-right">Next</span>
+																																												</div>
+																																											</div>
+																																										</div>
+																																									</div>
+																																									<div class="w3-container w3-center">
+																																										<hr>
+																																											<h3>Paper-like Cards with Shadows</h3>
+																																										</div>
+																																										<div class="w3-row-padding">
+																																											<div class="w3-third">
+																																												<div class="w3-card">
+																																													<img src="https://wmi45q.dm.files.1drv.com/y4mJ0wE3MHujZ5-VaA1QTJsGUt-AYjzq56E_Ptq1O92LCMguXo3QHi_iBwcgoXt3I-mi98g7zUk5_mtxgLD9H8SpdGmTCgFkLb2nWiPmpqwzyPL5EIKS4i6a8721svHqYMxldDAosmjZ7AFWprmJFOAwp2A7TnaTRkdEXLK-d87hIpanUsnVyp_l1XShZGkAFFcJwhr50EooVWeAmP0kudFqA/Blue%20Sky%20Ocean%20Nature%20Creative%20Desktop%20Wallpaper%20%285%29.jpg?psid=1" alt="sky line" style="width:100%">
+																																														<div class="w3-container">
+																																															<p>w3-card</p>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<div class="w3-third">
+																																													<div class="w3-card-4">
+																																														<img src="https://vwhtwg.dm.files.1drv.com/y4mHUbghuLa6HzrJiE7SPwez5b2-HSyvhHeTAIA2Inj5qSMKbkNLgK2aIFxg9lUF_kM2VRYIJGwQ2fkRDnep9Tliq29ql43_TZYqnyDXtnP8p6qSqcnSIyke8ynxz90RKdUkMyf-tPucFj-tbvuw_O8GgI2mjLLG6_MxugiTfH6jGZFxMY9uzh3tFv4ZCCcd7vZ3t4AiW7nAWQVzBAvgXYlBQ/gs_jumbobg_dark05121.jpg?psid=1" alt="blue" style="width:100%">
+																																															<div class="w3-container">
+																																																<p>w3-card-4</p>
+																																															</div>
+																																														</div>
+																																													</div>
+																																													<div class="w3-third">
+																																														<div class="w3-card-4">
+																																															<img src="https://w2i45q.dm.files.1drv.com/y4mOisUqKPaFQGzRHdOLhvFk8eSf1YeZaBJUsaMpiRfbiA5zoRE_AB0JMHtQXUnc2lNMHVrJE8vD0XQpL8asVDDHz7VG0k27GYsSUp0PsQlD23TC0KyqBdal45sOmYxxOITK4PQOFPtA2aBZmRXu6_xmOhfsXnPT0ikMwayrTgGLH8sPR9uakdfCk3FRbm7W6lXfG1p7DfbvHPE0omD8seAxQ/Blue%20Sky%20Ocean%20Nature%20Creative%20Desktop%20Wallpaper%20%286%29.jpg?psid=1" alt="Ocean Blue" style="width:100%">
+																																																<div class="w3-container">
+																																																	<p>w3-card-4</p>
+																																																</div>
+																																															</div>
+																																														</div>
+																																													</div>
+																																													<div class="w3-container">
+																																														<hr>
+																																															<div class="w3-center">
+																																																<h2 class="Nosifer">Tables</h2>
+																																																<p w3-class="w3-large">Don't worry. W3.CSS takes care of your tables.</p>
+																																															</div>
+																																															<div class="w3-responsive w3-card-4">
+																																																<table class="w3-table w3-striped w3-bordered">
+																																																	<thead>
+																																																		<tr class="w3-theme">
+																																																			<th>First Name</th>
+																																																			<th>Last Name</th>
+																																																			<th>Points</th>
+																																																		</tr>
+																																																	</thead>
+																																																	<tbody>
+																																																		<tr>
+																																																			<td>Jill</td>
+																																																			<td>Smith</td>
+																																																			<td>50</td>
+																																																		</tr>
+																																																		<tr class="w3-white">
+																																																			<td>Eve</td>
+																																																			<td>Jackson</td>
+																																																			<td>94</td>
+																																																		</tr>
+																																																		<tr>
+																																																			<td>Adam</td>
+																																																			<td>Johnson</td>
+																																																			<td>67</td>
+																																																		</tr>
+																																																	</tbody>
+																																																</table>
+																																															</div>
+																																															<hr>
+																																																<h2 class="w3-center">Forms and Lists</h2>
+																																															</div>
+																																															<div class="w3-row-padding">
+																																																<div class="w3-half">
+																																																	<form class="w3-container w3-card-4">
+																																																		<h2>Input Form</h2>
+																																																		<div class="w3-section">
+																																																			<input class="w3-input" type="text" required>
+																																																				<label>Name</label>
+																																																			</div>
+																																																			<div class="w3-section">
+																																																				<input class="w3-input" type="text" required>
+																																																					<label>Email</label>
+																																																				</div>
+																																																				<div class="w3-section">
+																																																					<input class="w3-input" type="text" required>
+																																																						<label>Subject</label>
+																																																					</div>
+																																																					<div class="w3-row">
+																																																						<div class="w3-half">
+																																																							<input id="milk" class="w3-check" type="checkbox" checked="checked">
+																																																								<label>Milk</label>
+																																																								<br>
+																																																									<input id="sugar" class="w3-check" type="checkbox">
+																																																										<label>Sugar</label>
+																																																										<br>
+																																																											<input id="lemon" class="w3-check" type="checkbox" disabled>
+																																																												<label>Lemon (Disabled)</label>
+																																																												<br>
+																																																													<br>
+																																																													</div>
+																																																													<div class="w3-half">
+																																																														<input id="male" class="w3-radio" type="radio" name="gender" value="male" checked>
+																																																															<label>Male</label>
+																																																															<br>
+																																																																<input id="female" class="w3-radio" type="radio" name="gender" value="female">
+																																																																	<label>Female</label>
+																																																																	<br>
+																																																																		<input id="unknown" class="w3-radio" type="radio" name="gender" value="" disabled>
+																																																																			<label> Don't know (Disabled)</label>
+																																																																		</div>
+																																																																	</div>
+																																																																</form>
+																																																															</div>
+																																																															<div class="w3-half">
+																																																																<div class="w3-card-4 w3-container">
+																																																																	<h2>Lists</h2>
+																																																																	<ul class="w3-ul w3-margin-bottom">
+																																																																		<li>Jill</li>
+																																																																		<li>Eve</li>
+																																																																		<li>Adam</li>
+																																																																	</ul>
+																																																																	<br>
+																																																																		<ul class="w3-ul w3-border w3-hoverable">
+																																																																			<li class="w3-theme">Jill</li>
+																																																																			<li>Eve</li>
+																																																																			<li>Adam</li>
+																																																																			<li>Steve</li>
+																																																																		</ul>
+																																																																		<br>
+																																																																		</div>
+																																																																	</div>
+																																																																</div>
+																																																																<hr>
+																																																																	<h2 class="w3-center">Progress Bars</h2>
+																																																																	<div class="w3-container">
+																																																																		<div class="w3-light-gray">
+																																																																			<div id="myBar" class="w3-center w3-padding w3-theme" style="width:5%">5%</div>
+																																																																		</div>
+																																																																		<br>
+																																																																			<button class="w3-btn w3-theme" onclick="move()">Click Me</button>
+																																																																		</div>
+																																																																		<hr>
+																																																																			<h2 class="w3-center">Slideshows</h2>
+																																																																			<div class="w3-content" style="max-width:800px;position:relative">
+																																																																				<div class="mySlides w3-animate-opacity">
+																																																																				<img class="lazyload" data-src="https://uwj8xa.dm.files.1drv.com/y4mLV4jizj9k53B3XHpumQ3762VjYthWGT6ZVVx7LYJ6gn3d0OMtkZD9f-XiVZB32ZS-LKUehEFzdsBkTZHZQFOWu8UrUJCCtSt8JZFRz9DM-EmXVHg9WV-H2PEJDUl8FwMSuw_-CM5-fkZIR8mb9I1miBXHYMOZkGWhWMemTtsDsGiszIX1RbLKNen_GmF7WQ18qfMQsSNXEKomb_RARySLQ/gs_06-15-2020_store375.jpg?psid=1" alt="ggroup" style="width:100%">
+																																																																					<noscript>																																																																																																																																							
+																																																																						<img src="https://uwj8xa.dm.files.1drv.com/y4mLV4jizj9k53B3XHpumQ3762VjYthWGT6ZVVx7LYJ6gn3d0OMtkZD9f-XiVZB32ZS-LKUehEFzdsBkTZHZQFOWu8UrUJCCtSt8JZFRz9DM-EmXVHg9WV-H2PEJDUl8FwMSuw_-CM5-fkZIR8mb9I1miBXHYMOZkGWhWMemTtsDsGiszIX1RbLKNen_GmF7WQ18qfMQsSNXEKomb_RARySLQ/gs_06-15-2020_store375.jpg?psid=1" alt="ggroup" style="width:100%">
+																																																																						</noscript>
+																																																																						</div>
+																																																																						<img class="mySlides w3-animate-opacity" src="https://u2ijqw.dm.files.1drv.com/y4mxMrPXODxf_h2rXZ1uL3uBjortu2zzP2Qb4tuGVoOUK7ITSuhfi0A8EVOIR17Q0cOukbqtE12bUAAptNB4hXNvHOwdQLLXTkdYYt3XISuy2l1fMVbC5j6E8uXUyEIN_tbPBptXRdOqFzHWTvEE_yJ1yp_u0urSoLMFr7NvcpaOU0LiDL9AD2FHvPOsidAKkyMHPbehdJmigtIv__0Mf2HLA/gs_jumbobg_dark06119.jpg?psid=1" style="width:100%">
+																																																																							<img class="mySlides w3-animate-opacity" src="https://vgijqw.dm.files.1drv.com/y4mORHlE3GW1n27KBt7bOhJNYgysB4A_AXSqF4BAnWkJp0rnH12fuIUptR4K3kgnzJUlWDfCltbacxNnJYBwkpB0mcbQH-ag1hibRF3OB2Wutho5ejkOn3B1R1Ncu6fI_cHAJbSP2dkIhpH_rwY8graRRavYEb2UJNgIfO1mnr-SzfjV9TOZ96SeCO4u6l88eiWdoySbz1lGio01RvW6nEk5w/gs_jumbobg_dark06118.jpg?psid=1" style="width:100%">
+																																																																								<img class="mySlides w3-animate-opacity" src="https://vwijqw.dm.files.1drv.com/y4m4qbNEtgDuTfda1v65LiGFBoWtb5VgPLOFBGcprUA3QxK2VYgnUxdafBDdB-ZvO8PJMEf_shw4a85ilNTuO7HWT64G_rhmkZlrjKNKmbzIQtxULI_Hxrx52t1_V9SX9NWuplb9J4An_KO8xWrw6kRWm7hi7XkTdc6VTxJAcYd7K13n1UvVzL2DALek-2GZ_VF4gdOD44Er2Cj0d_bgdbMrA/gs_jumbobg_dark06117.jpg?psid=1" style="width:100%">
+																																																																									<img class="mySlides w3-animate-opacity" src="https://95idkq.dm.files.1drv.com/y4myi_AFsLpB3s2XbqZC79on5eIu-yFYgVY_gm3xVIAANCZ4WD34HFZZbT7gL1rwEiYcEI5j9U3pQJselEHdALUV-UuAo2Cy2LWWQ1Pm4P4b7Y9e_nDSyI0Kv2TPyg0MfnkqH2KqSHpke5hk_-PoKb7MuhbKXaLI0piQZrJU7cvRGTmu8BdAqR_ylIsYMK-pqgMb4q1viMkD6V2qNZRNDd4wQ/sketch1592339246205.png?psid=1" style="width:100%">
+																																																																										<img class="mySlides w3-animate-opacity" src="https://95iekq.dm.files.1drv.com/y4mUPSNBmaxI1Iq17GhEp_O5-Ocx7BFztiaPe0UGPDF73wkAdgt5v0SJs2lj-ZazgrZy89NB7l8wxxfUWO_8RU-cnJTTJ0yiSYUNilL4ylTSUB-ZOUVMMqqqgR-DgAm2Pqp7QOU23Xzq5S_gZvTvsWTQygQscv6TppRdMAQyADxq5rkwrGK8GU_l0Qi4kLMsbauoWoyhHZLfAwPmfP9yZ5xcw/sketch1592339382262.png?psid=1" style="width:100%">
+																																																																											<img class="mySlides w3-animate-opacity" src="https://95ijkq.dm.files.1drv.com/y4m02eI_iuAZwR-q0Kc228W1CWXhONv-vv3hLgWZtf2UoSNycAsiTeftOPzepuuijHsh58CzbamhaMJBXhKiFhtQRuLKdeG98is4JynSHKW21ZLkWxZ8U9sLL19ydo2_QRDkF0ipOgWSRhJv_lOM07TIUI5vvoLt_7B7nVbdkmlfNAdAd7_Vh9nI5wno3VxXd_q_J2syWYE30Yktq9HTUXQOw/sketch1592339462408.png?psid=1" style="width:100%">
+																																																																												<img class="mySlides w3-animate-opacity" src="https://w2ix0q.dm.files.1drv.com/y4mbcP5dM9VCgYuYxvlCFsWXzm3aLgJusuwqalk1nO9e0vZ7Yh0O4oESOLrUfbJy2drtsjB4-3nD5L7YpfybIVTy9oWrwJXcqXqbzhnLr2kIw_kvJ5NgWvxr46BHBdwZXKRlVjy41U-tiFWyZ-RSbKHnCVkTr4Ii6Nfb79f6h-QqC3WhnCFYNFbBwSjqttEDO9k7DMipfKdtRidY1fFX_R7mg/sketch1592340335754.png?psid=1" style="width:100%">
+																																																																													<img class="mySlides w3-animate-opacity" src="https://95ikkq.dm.files.1drv.com/y4mA3kuN_gNv1RJIJbhGdX_TTyna4OGWeQNw1TIteqSrlXxB5tcPH4b1aRzoP7eLqO6Jor_LaVs1a5reMmC33V_OHhebT74qY_IVjq3QmEVxoIrOeoZ1n1QEXTnz_Nq43ItGle_QIua0MSQZpG7id7mqEjZyVgVOOI2_P_amx0wWE4WCv2FqRe3CZHLABs7ovbMqzBZo4SO3DR7x7UFDD7Gig/sketch1592340988224.png?psid=1" style="width:100%">
+																																																																														<img class="mySlides w3-animate-opacity" src="https://95iykq.dm.files.1drv.com/y4m3JtB4M7WZixAbqkQ3mmNlw8FuDvui7xEjZ5cVEo_S0J48buPTeREwKb-LcYPAsn2Aircwm-SGs2ftvdysKb1f1C_SvMocppz6vo9dmLRfAsc-nVqM-BsNXxNBuG4JaK26YqY26ZTsPcchHS3lZS01GMq_d8uhVbpHIDwiRkmdKdRRUm2hbuaVGOQY5faFoOIlBBRDHkPxHx-kUmscInUmg/sketch1592343084763.png?psid=1" style="width:100%">
+																																																																															<img class="mySlides w3-animate-opacity" src="https://95ihkq.dm.files.1drv.com/y4mTC9gUSVTJfBSa5O8oV4akEjA9Y5f20s96devktz8JLAFwJjSLbSJ09X8oXJIJ0IumsBKSkNrp3Y7Zf-M07cLnyfsE1iADKcN18pchwM0cLhFGRZeB_gUNHhTmWf8hVUru0qcaUxHMbMwxVME-pkmnHqw1wwKq9Um8GZnJs7voxw9yq9pusDv_ig_RAwIL_5lV5Q-aOhTVO9fxY2lTIhI_Q/sketch1592343154770.png?psid=1" style="width:100%">
+																																																																																<img class="mySlides w3-animate-opacity" src="https://95ixkq.dm.files.1drv.com/y4mcdDLcKBVkdEGhSZeYIAbmheZW7jMHFZhhLyW5vZe5cMuqKFqInDUR17D63aDswpezeCyBoweJSJOoVOirwOfvukrJnWAEXI3-JsVZ2SiPZjOrvjzXzpV9_nKXSaZDUyzFizg5Z03CTI9cYYJKhXvalKvJEBOa3H59IN0Om-tFZujac1tCOI3rvpxdBq3SqkP2Jj_6QTn25wyPmRD1AQ_tw/sketch1592343206496.png?psid=1" style="width:100%">
+																																																																																	<a class="w3-button w3-hover-dark-grey" style="position:absolute;top:45%;left:0;" onclick="plusDivs(-1)">❮</a>
+																																																																																	<a class="w3-button w3-hover-dark-grey" style="position:absolute;top:45%;right:0;" onclick="plusDivs(+1)">❯</a>
+																																																																																</div>
+																																																																																<div class="w3-container">
+																																																																																	<hr>
+																																																																																		<h2 class="w3-center">Navigation</h2>
+																																																																																		<div class="w3-bar w3-theme">
+																																																																																			<a href="#" class="w3-bar-item w3-button w3-padding-16">Home</a>
+																																																																																			<a href="#" class="w3-bar-item w3-button w3-padding-16">Link 1</a>
+																																																																																			<div class="w3-dropdown-hover">
+																																																																																				<button class="w3-button w3-padding-16">
+      Dropdown 
+																																																																																					<i class="fa fa-caret-down"></i>
+																																																																																				</button>
+																																																																																				<div class="w3-dropdown-content w3-card-4 w3-bar-block">
+																																																																																					<a href="javascript:void(0)" class="w3-bar-item w3-button">Link 1</a>
+																																																																																					<a href="javascript:void(0)" class="w3-bar-item w3-button">Link 2</a>
+																																																																																					<a href="javascript:void(0)" class="w3-bar-item w3-button">Link 3</a>
+																																																																																				</div>
+																																																																																			</div>
+																																																																																		</div>
+																																																																																		<hr>
+																																																																																			<h2 class="w3-center">Accordions</h2>
+																																																																																			<button onclick="myAccFunc('Demo1')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 1</button>
+																																																																																			<div id="Demo1" class="w3-hide">
+																																																																																				<div class="w3-container">
+																																																																																					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+																																																																																				</div>
+																																																																																			</div>
+																																																																																			<button onclick="myAccFunc('Demo2')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 2</button>
+																																																																																			<div id="Demo2" class="w3-hide">
+																																																																																				<a href="#" class="w3-button w3-block w3-left-align">Link 1</a>
+																																																																																				<a href="#" class="w3-button w3-block w3-left-align">Link 2</a>
+																																																																																				<a href="#" class="w3-button w3-block w3-left-align">Link 3</a>
+																																																																																			</div>
+																																																																																			<button onclick="myAccFunc('Demo3')" class="w3-padding-16 w3-theme w3-button w3-block w3-left-align">Open Section 3</button>
+																																																																																			<div id="Demo3" class="w3-hide w3-black">
+																																																																																				<div class="w3-container">
+																																																																																					<p>Accordion with Images:</p>
+																																																																																					<img src="img_snowtops.jpg" style="width:30%;" class="w3-animate-zoom">
+																																																																																						<p>French Alps</p>
+																																																																																					</div>
+																																																																																				</div>
+																																																																																				<hr>
+																																																																																					<h2 class="w3-center container">Documents</h2>
+																																																																																					<div class="two w3-border">
+																																																																																						<div class="w3-bar w3-theme w3-center w3-row-padding">
+																																																																																							<button class="w3-bar-item w3-button testbtn w3-padding-small" onclick="openDoc(event,'License')">License</button>
+																																																																																							<button class="w3-bar-item w3-button testbtn w3-padding-small" onclick="openDoc(event,'Note')">Note</button>
+																																																																																							<button class="w3-bar-item w3-button testbtn w3-padding-small" onclick="openDoc(event,'Privacy')">Privacy</button>
+																																																																																							<button class="w3-bar-item w3-button testbtn w3-padding-small" onclick="openDoc(event,'Term of use')">Term of use</button>
+																																																																																						</div>
+																																																																																						<div id="License" class="doc w3-animate-opacity">																																																																				
+																																																																																							<h3 class="markazi-text w3-text-dark-grey w3-medium w3-padding" style="font-weight:bold"><a href="https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT" target="_blank">Copyright (c) 2012 Scott Jehl</a></h3>
+																																																																																							<p class="font-expand markazi-text w3-text-dark-grey" style="margin-left:8px; margin-right:4px">Permission is hereby granted, free of charge, to any personobtaining a copy of this software and associated documentationfiles (the "Software"), to deal in the Software withoutrestriction, including without limitation the rights to use,copy, modify, merge, publish, distribute, sublicense, and/or sellcopies of the Software, and to permit persons to whom theSoftware is furnished to do so, subject to the followingconditions: The above copyright notice and this permission notice shall beincluded in all copies or substantial portions of the Software. <br>
+																																																																																							THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIESOF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE ANDNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHTHOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISINGFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OROTHER DEALINGS IN THE SOFTWARE.</p>
+																																																																																						</div>
+																																																																																						<div id="Note" class="w3-container doc w3-animate-opacity">
+																																																																																							<h2>Note</h2>
+																																																																																							<p>Paris is the capital of France.</p>
+																																																																																							<p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
+																																																																																						</div>
+																																																																																						<div id="Privacy" class="w3-container doc w3-animate-opacity">
+																																																																																							<h2>Privacy</h2>
+																																																																																							<p>Tokyo is the capital of Japan.</p>
+																																																																																							<p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+																																																																																						</div>
+																																																																																						<div id="Term of use" class="w3-container doc w3-animate-opacity">
+																																																																																							<h2>Term of use</h2>
+																																																																																							<p>Tokyo is the capital of Japan.</p>
+																																																																																							<p>It is the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+																																																																																						</div>
+																																																																																					</div>
+																																																																																					<hr>
+																																																																																						<h2 class="w3-center">Buttons</h2>
+																																																																																						<div class="w3-center">
+																																																																																							<br>
+																																																																																								<a class="w3-button w3-theme">Button</a>
+																																																																																								<a class="w3-button w3-theme">Button</a>
+																																																																																								<a class="w3-button w3-theme-d3 w3-disabled">Button</a>
+																																																																																								<br>
+																																																																																									<br>
+																																																																																										<a class="w3-button w3-circle w3-large w3-black">
+																																																																																											<i class="fa fa-plus"></i>
+																																																																																										</a>
+																																																																																										<a class="w3-button w3-circle w3-large w3-theme">
+																																																																																											<i class="fa fa-plus"></i>
+																																																																																										</a>
+																																																																																										<a class="w3-button w3-circle w3-large w3-card-4">
+																																																																																											<i class="fa fa-plus"></i>
+																																																																																										</a>
+																																																																																									</div>
+																																																																																									<br>
+																																																																																										<div class="w3-center">
+																																																																																											<div class="w3-dropdown-hover">
+																																																																																												<button class="w3-button w3-theme">Dropdown 
+																																																																																													<i class="fa fa-caret-down"></i>
+																																																																																												</button>
+																																																																																												<div class="w3-dropdown-content w3-bar-block w3-border">
+																																																																																													<a href="#" class="w3-bar-item w3-button">Link 1</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button">Link 2</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button">Link 3</a>
+																																																																																												</div>
+																																																																																											</div>
+																																																																																										</div>
+																																																																																									</div>
+																																																																																									<hr>
+																																																																																										<div class="w3-center">
+																																																																																											<h2>Pagination</h2>
+																																																																																											<!-- Pagination -->
+																																																																																											<div class="w3-center w3-padding-32">
+																																																																																												<div class="w3-bar">
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">«</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-theme w3-hover-theme">1</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">2</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">3</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">4</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">5</a>
+																																																																																													<a href="#" class="w3-bar-item w3-button w3-hover-theme">»</a>
+																																																																																												</div>
+																																																																																											</div>
+																																																																																										</div>
+																																																																																										<br>
+																																																																																											<!-- Footer -->
+																																																																																											<footer class="w3-container w3-theme-dark w3-padding-16">
+																																																																																												<h3>Footer</h3>
+																																																																																												<p>Powered by 
+																																																																																													<a href="https://www.gtntgroup.com" target="_blank">gtntgroup.com</a>
+																																																																																												</p>
+																																																																																												<div style="position:relative;bottom:55px;" class="w3-tooltip w3-right">
+																																																																																													<span class="w3-text w3-theme-light w3-padding"></span>
+																																																																																													<a class="w3-text-white" href="#myHeader">
+																																																																																														<span class="w3-xlarge">
+																																																																																															<i class="fa fa-chevron-circle-up"></i>
+																																																																																														</span>
+																																																																																													</a>
+																																																																																												</div>
+																																																																																												<p>View more insights
+																																																																																													<a href="https://www.gtntgroup.com" class="w3-btn w3-theme-black" target="_blank"><span class="w3-tag w3-xlarge">by... </span>
+																																																																																													<span class="w3-tag w3-large">g</span><span class="w3-tag w3-large">t</span>
+<span class="w3-tag w3-large">n</span><span class="w3-tag w3-large">t</span><span class="w3-tag w3-large">g</span><span class="w3-tag w3-large">r</span><span class="w3-tag w3-large">o</span><span class="w3-tag w3-large">u</span><span class="w3-tag w3-large">p</span><span class="w3-tag w3-large">.</span><span class="w3-tag w3-large">c</span><span class="w3-tag w3-large">o</span><span class="w3-tag w3-large">m</span></a>
+																																																																																												</p>
+																																																																																											</footer>
+<!-- Script for Sidebar, Documents, Accordions, Progress bars and slideshows -->
+<script>
+// Side navigation
+function w3_open() {
+  var x = document.getElementById("mySidebar");
+  x.style.width = "100%";
+  x.style.fontSize = "40px";
+  x.style.paddingTop = "10%";
+  x.style.display = "block";
+}
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+
+// Documents
+function openDoc(evt, docName) {
+  var i;
+  var x = document.getElementsByClassName("doc");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  var activebtn = document.getElementsByClassName("testbtn");
+  for (i = 0; i < x.length; i++) {
+    activebtn[i].className = activebtn[i].className.replace(" w3-dark-grey", "");
+  }
+  document.getElementById(docName).style.display = "block";
+  evt.currentTarget.className += " w3-dark-grey";
+}
+
+var mybtn = document.getElementsByClassName("testbtn")[0];
+mybtn.click();
+
+// Accordions
+function myAccFunc(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace("w3-show", "");
+  }
+}
+
+// Slideshows
+var slideIndex = 1;
+
+function plusDivs(n) {
+  slideIndex = slideIndex + n;
+  showDivs(slideIndex);
+}
+
+function showDivs(n) {
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+
+showDivs(1);
+
+// Progress Bars
+function move() {
+  var elem = document.getElementById("myBar");   
+  var width = 5;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (width == 100) {
+      clearInterval(id);
+    } else {
+      width++; 
+      elem.style.width = width + '%'; 
+      elem.innerHTML = width * 1  + '%';
+    }
+  }
+}										
+</script>
+</div>
+</body>
+</html>
