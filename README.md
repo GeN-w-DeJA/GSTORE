@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
+# **GS-LIBRARY**
+media files info location
+## 
+![/GS-x1.jpg?psid=1](https://85ihkq.dm.files.1drv.com/y4mAi1CVO1rz7LrqtuN2fOFQ6ChsZeEqMCcHQ4LZPftR2cQ3ynKCg3KA6mkAeKxWS154kYdjk9bkKp448T1FIwTCLYVuqW8FbscCqNAZODkbTXNNUh8Ea9P_Zln9gOzwn8-TZnBhVmoCYOtQyFgHRfm80JTLgVzsqhwP-elGUJvtGzcZ6I04MfvTs-GDEli6yxrXbtwNYGQ6ziKW0C-c_Hx5A/GS-x1.jpg?psid=1)![ge-logo_gzone001.png)](https://ivr1zg.dm.files.1drv.com/y4m6JrzQhCJ2j6_HGyvvQFpBq_Z56t6GBA8Rg8xQbEVMklzKVlLdPxVz8bbuufc4b-2ZrYDmO0vUF1AQssbinbzH-nNLwLDeJNDWq1XWm5o90pnf6_ZYaGb0uZwWy1mM34raAKBsu4rwAwoydqYsSlaoStn-NCnRC4KI_GoyJpSN2yd9eMXVzVzCOPILnDd8I3Bvsa_a9Uco91MifneWZR7kQ/ge-logo_gzone001.png?attredirect=1)
+## INTRODUCTION
+****
 
+# **README**
+																															
+![Before you start ! ...Please read the documents under this content...](https://github.com/GeN-w-DeJA/GenXs/blob/master/README.md)																																																							
+			
 You can use the [editor on GitHub](https://github.com/GeN-w-DeJA/GSTORE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
